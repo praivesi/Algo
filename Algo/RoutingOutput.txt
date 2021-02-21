@@ -1,0 +1,15 @@
+here: 0 / there: 1 / here cost: 1 / there cost: 1.3
+here: 0 / there: 2 / here cost: 1 / there cost: 1.1
+here: 0 / there: 3 / here cost: 1 / there cost: 1.24
+here: 2 / there: 6 / here cost: 1.1 / there cost: 1.32
+here: 3 / there: 4 / here cost: 1.24 / there cost: 1.4508
+here: 3 / there: 5 / here cost: 1.24 / there cost: 1.5376
+here: 3 / there: 1 / here cost: 1.24 / there cost: 2.48
+here: 1 / there: 2 / here cost: 1.3 / there cost: 1.703
+here: 1 / there: 2 / here cost: 1.3 / there cost: 1.638
+here: 1 / there: 4 / here cost: 1.3 / there cost: 1.443
+here: 1 / there: 5 / here cost: 1.3 / there cost: 1.781
+here: 4 / there: 6 / here cost: 1.443 / there cost: 2.55411
+here: 5 / there: 4 / here cost: 1.5376 / there cost: 1.90662
+here: 5 / there: 6 / here cost: 1.5376 / there cost: 1.70674
+1.3200000525
